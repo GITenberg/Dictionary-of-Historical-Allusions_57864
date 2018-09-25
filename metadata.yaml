@@ -1,11 +1,16 @@
 _repo: Dictionary-of-Historical-Allusions_57864
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57864-h/images/cover.jpg
 creator:
   author:
     agent_name: Harbottle, Thomas Benfield
     gutenberg_agent_id: '49657'
     url: http://www.gutenberg.org/2009/agents/49657
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57864#Dictionary-of-Historical-Allusions
 gutenberg_issued: '2018-09-08'
 gutenberg_type: Text
 identifiers:
